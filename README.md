@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElCatta
-- 👀 I’m interested in programming and web development
+- 👀 I’m interested in general software development and web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I want to learn more and more
 - 📫 Reach me at my email
